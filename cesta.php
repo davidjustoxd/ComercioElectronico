@@ -1,0 +1,1 @@
+$cantidad=$_SESSION['cesta'][$codProducto]
